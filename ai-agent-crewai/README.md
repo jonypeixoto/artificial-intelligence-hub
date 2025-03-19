@@ -50,30 +50,20 @@ You should know about these technologies:
 OPEN THE VS CODE
 <br/>
 
-1. Download the .RAR zipped file below
-   
-https://drive.google.com/file/d/1CfN7FJ5oduDBZCq03USOHyhMYCQQupNO/view?usp=sharing
+1. [Configuration of the Python](https://docs.python.org/3/)
 <br/><br/>
-2. Extract to an accessible location
+
+2. Configuration of the Venv (inside VSCode - venv — Creating virtual environments)
+<br/>
+
+https://docs.python.org/pt-br/3.13/library/venv.html
 <br/><br/>
-3. Export in Java format (most recommended) and have fun with this new game !
+
+3. Execute the program in python, test now !
 <br/><br/>
-How to export to Windows executable format?
-<br/> 
-Convert JAR to .exe To convert your JAR file to a .exe file, you can use a tool like Launch4j, JSmooth, or JexePack. Here, we'll use Launch4j as an example: 
-<br/>
-Download and install Launch4j.
-<br/>
-Open Launch4j and configure the settings as follows: - Output File: Your desired .exe filename.
-<br/>
-- Jar: Select your JAR file.
-- Customize other options as needed.
-<br/>
-- Click "Build Wrapper" to create your .exe file.
-<br/><br/>
-For MAC and Linux, check the documentation below
-<br/>
-https://www.oracle.com/java/technologies/javase-documentation.html
+
+Yeah! I created this AI Agent now!
+
 <br/><br/>
 
 <br/>
@@ -113,4 +103,4 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://www.youtube.com/@Jo
 
 ### LIVES:
 
-YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoTV)
+YouTube: [Jony Peixoto](https://www.youtube.com/@PeixotoLab)
