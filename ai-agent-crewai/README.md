@@ -36,11 +36,9 @@ You should know about these technologies:
 
 <br/>
 
-- [Java](https://www.java.com/en/download/manual.jsp)
-- [Eclipse](https://eclipseide.org/)
-- [Paint.Net](https://www.getpaint.net/)
-- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+- [Python](https://www.java.com/en/download/manual.jsp)
+- [VSCode](https://eclipseide.org/)
+- [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=pt-BR&gl=BR)
 
 <br/>
 
@@ -49,7 +47,7 @@ You should know about these technologies:
 ## Here, you will find the step by step to run this project
 </br>
 
-OPEN THE GAME USING UNITY SOFTWARE
+OPEN THE VS CODE
 <br/>
 
 1. Download the .RAR zipped file below
@@ -87,11 +85,10 @@ https://www.oracle.com/java/technologies/javase-documentation.html
 
 You need to understand the mechanisms that trigger each tool below:
 
-- [Java](https://www.java.com/en/download/manual.jsp)
-- [Paint.Net](https://www.getpaint.net/)
-- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [Microsoft Visual Studio ](https://visualstudio.microsoft.com/vs/features/game-development/)
-- [Unity](https://unity.com)
+- [Python](https://www.java.com/en/download/manual.jsp)
+- [VSCode](https://eclipseide.org/)
+- [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=pt-BR&gl=BR)
+- [Powershell](https://learn.microsoft.com/pt-br/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
 
 <br/><br/>
 
