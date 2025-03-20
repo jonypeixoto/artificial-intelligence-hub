@@ -93,7 +93,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jony
 
 <img alt="Jony Peixoto" title="Jony Peixoto" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Jony-Peixoto-Projects.jpg" height="100" width="100" />
 
-Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://www.youtube.com/@JonyPeixotoTV)
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://www.youtube.com/@PeixotoLab)
 
 <br/>
 
