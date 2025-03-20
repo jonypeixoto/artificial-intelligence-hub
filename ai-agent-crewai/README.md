@@ -1,17 +1,19 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/crewai.gif" />
     <br>
-    AI Agent - CrewAI
+    Multi-Agent System for Event Planning and Itinerary - CrewAI
 </h1>
 
 <h4 align="center">
-AI Agent - CrewAI is a repository of the project involving games that every game engineer in the world should know:
-   <a href="https://en.wikipedia.org/wiki/Game">Games</a>
+Multi-Agent System for Event Planning and Itinerary is a repository of the project involving AI, this project implements a multi-agent system for event planning and itinerary management, using Python, which is widely recognized in the field of Artificial Intelligence. The system consists of two autonomous agents:
+
+Event Itinerary Agent: Responsible for managing the event itinerary, organizing times, locations, and routes, aiming to optimize the flow of activities and ensure that all involved parties have a clear view of the schedule.
+
+Event Planning Agent: Focused on creating and coordinating the overall event plan, including defining activities, necessary resources, and task allocation. This agent ensures that all logistical and operational aspects of the event are aligned:
+   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI Programming</a>
 </h4>
 
 <br/> 
-
-<p>These dynamic seals(shields) concern the Games repository(gaming-projects), all projects work on any operating system that meets the technologies:</p>
 
 <p align="center">
   <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
