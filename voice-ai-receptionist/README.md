@@ -42,7 +42,7 @@ Real-World Application: This project provides valuable experience for tech enthu
 ##  :information_source: Preview
 
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/events-crewai.gif">
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/aireceptionist-synthflowai.gif">
  </code>
 
 ## :warning: Prerequisites
