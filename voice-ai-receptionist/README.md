@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/crewai.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/synthflowai.gif" />
     <br>
     AI-Powered Dental Receptionist - Voice Assistant with Synthflow
 </h1>
