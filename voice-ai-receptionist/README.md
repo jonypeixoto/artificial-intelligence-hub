@@ -69,7 +69,7 @@ You should know about these technologies:
 
 1. Clone the repository:
 
-git clone https://github.com/jonypeixoto/artificial-intelligence-hub/voice-ai-receptionist.git
+git clone https://github.com/jonypeixoto/artificial-intelligence-hub/tree/main/voice-ai-receptionist
 
 <br/>
 
